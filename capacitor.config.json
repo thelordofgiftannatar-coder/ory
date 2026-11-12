@@ -1,0 +1,7 @@
+{
+  "appId": "com.skeletor.video",
+  "appName": "Skeletor Video",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": { "allowMixedContent": false }
+}
